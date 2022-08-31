@@ -1,0 +1,5 @@
+../Drivers/QPC/qf_ps.c:87:6:QF_psInit	16	static
+../Drivers/QPC/qf_ps.c:119:6:QF_publish_	24	static,ignoring_inline_asm
+../Drivers/QPC/qf_ps.c:207:6:QActive_subscribe	24	static,ignoring_inline_asm
+../Drivers/QPC/qf_ps.c:255:6:QActive_unsubscribe	24	static,ignoring_inline_asm
+../Drivers/QPC/qf_ps.c:304:6:QActive_unsubscribeAll	24	static,ignoring_inline_asm

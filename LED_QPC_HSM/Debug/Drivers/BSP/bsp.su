@@ -1,0 +1,11 @@
+../Drivers/CMSIS/Include/core_cm4.h:1657:22:__NVIC_SetPriorityGrouping	24	static
+../Drivers/CMSIS/Include/core_cm4.h:1816:22:__NVIC_SetPriority	16	static
+../Drivers/CMSIS/Include/core_cm4.h:1939:34:__NVIC_SystemReset	4	static,ignoring_inline_asm
+../Drivers/CMSIS/Include/core_cm4.h:2022:26:SysTick_Config	16	static
+../Drivers/BSP/bsp.c:56:6:BSP_init	4	static
+../Drivers/BSP/bsp.c:60:6:BSP_ledOff	8	static
+../Drivers/BSP/bsp.c:65:6:BSP_ledOn	8	static
+../Drivers/BSP/bsp.c:72:6:QF_onStartup	8	static
+../Drivers/BSP/bsp.c:91:6:QF_onCleanup	4	static
+../Drivers/BSP/bsp.c:94:6:QV_onIdle	4	static,ignoring_inline_asm
+../Drivers/BSP/bsp.c:108:12:Q_onAssert	16	static

@@ -1,0 +1,4 @@
+../Drivers/QPC/qf_mem.c:89:6:QMPool_init	32	static
+../Drivers/QPC/qf_mem.c:159:6:QMPool_put	24	static,ignoring_inline_asm
+../Drivers/QPC/qf_mem.c:213:7:QMPool_get	32	static,ignoring_inline_asm
+../Drivers/QPC/qf_mem.c:294:15:QF_getPoolMin	24	static,ignoring_inline_asm

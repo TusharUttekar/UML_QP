@@ -1,0 +1,3 @@
+../Drivers/QPC/qf_act.c:70:6:QF_add_	24	static,ignoring_inline_asm
+../Drivers/QPC/qf_act.c:103:6:QF_remove_	24	static,ignoring_inline_asm
+../Drivers/QPC/qf_act.c:144:6:QF_bzero	24	static

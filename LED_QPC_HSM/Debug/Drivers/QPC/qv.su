@@ -1,0 +1,4 @@
+../Drivers/QPC/qv.c:73:6:QF_init	8	static
+../Drivers/QPC/qv.c:104:6:QF_stop	8	static
+../Drivers/QPC/qv.c:117:7:QF_run	24	static,ignoring_inline_asm
+../Drivers/QPC/qv.c:220:6:QActive_start_	24	static

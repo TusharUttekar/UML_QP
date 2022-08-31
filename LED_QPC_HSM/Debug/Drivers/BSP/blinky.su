@@ -1,0 +1,4 @@
+../Drivers/BSP/blinky.c:56:6:Blinky_ctor	16	static
+../Drivers/BSP/blinky.c:63:8:Blinky_initial	16	static
+../Drivers/BSP/blinky.c:71:8:Blinky_off	24	static
+../Drivers/BSP/blinky.c:91:8:Blinky_on	24	static

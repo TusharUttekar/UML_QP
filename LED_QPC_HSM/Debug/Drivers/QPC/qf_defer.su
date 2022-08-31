@@ -1,0 +1,3 @@
+../Drivers/QPC/qf_defer.c:78:6:QActive_defer	32	static
+../Drivers/QPC/qf_defer.c:119:6:QActive_recall	24	static,ignoring_inline_asm
+../Drivers/QPC/qf_defer.c:188:15:QActive_flushDeferred	24	static

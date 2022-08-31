@@ -1,0 +1,8 @@
+../Drivers/QPC/qf_time.c:80:6:QF_tickX_	32	static,ignoring_inline_asm
+../Drivers/QPC/qf_time.c:205:6:QF_noTimeEvtsActiveX	24	static
+../Drivers/QPC/qf_time.c:238:6:QTimeEvt_ctorX	24	static
+../Drivers/QPC/qf_time.c:297:6:QTimeEvt_armX	24	static,ignoring_inline_asm
+../Drivers/QPC/qf_time.c:374:6:QTimeEvt_disarm	24	static,ignoring_inline_asm
+../Drivers/QPC/qf_time.c:436:6:QTimeEvt_rearm	24	static,ignoring_inline_asm
+../Drivers/QPC/qf_time.c:519:6:QTimeEvt_wasDisarmed	24	static
+../Drivers/QPC/qf_time.c:541:13:QTimeEvt_currCtr	24	static,ignoring_inline_asm

@@ -1,0 +1,9 @@
+../Drivers/QPC/qf_actq.c:95:6:QActive_post_	32	static,ignoring_inline_asm
+../Drivers/QPC/qf_actq.c:235:6:QActive_postLIFO_	24	static,ignoring_inline_asm
+../Drivers/QPC/qf_actq.c:326:13:QActive_get_	24	static,ignoring_inline_asm
+../Drivers/QPC/qf_actq.c:392:15:QF_getQueueMin	24	static,ignoring_inline_asm
+../Drivers/QPC/qf_actq.c:438:6:QTicker_ctor	16	static
+../Drivers/QPC/qf_actq.c:461:13:QTicker_init_	16	static
+../Drivers/QPC/qf_actq.c:476:13:QTicker_dispatch_	24	static,ignoring_inline_asm
+../Drivers/QPC/qf_actq.c:498:13:QTicker_post_	24	static,ignoring_inline_asm
+../Drivers/QPC/qf_actq.c:538:13:QTicker_postLIFO_	16	static

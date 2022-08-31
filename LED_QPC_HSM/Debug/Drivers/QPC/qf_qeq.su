@@ -1,0 +1,4 @@
+../Drivers/QPC/qf_qeq.c:72:6:QEQueue_init	24	static
+../Drivers/QPC/qf_qeq.c:115:6:QEQueue_post	32	static,ignoring_inline_asm
+../Drivers/QPC/qf_qeq.c:215:6:QEQueue_postLIFO	32	static,ignoring_inline_asm
+../Drivers/QPC/qf_qeq.c:284:13:QEQueue_get	24	static,ignoring_inline_asm

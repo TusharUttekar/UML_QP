@@ -1,0 +1,6 @@
+../Drivers/QPC/qf_dyn.c:113:6:QF_poolInit	24	static
+../Drivers/QPC/qf_dyn.c:164:7:QF_newX_	32	static
+../Drivers/QPC/qf_dyn.c:243:6:QF_gc	24	static,ignoring_inline_asm
+../Drivers/QPC/qf_dyn.c:306:13:QF_newRef_	16	static,ignoring_inline_asm
+../Drivers/QPC/qf_dyn.c:341:6:QF_deleteRef_	24	static
+../Drivers/QPC/qf_dyn.c:360:15:QF_poolGetMaxBlockSize	4	static
